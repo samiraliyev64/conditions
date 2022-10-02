@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.exe
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.deps.json
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.json
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.dev.json
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfo.cs
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\HP\Desktop\DevEdu-tasks\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.genruntimeconfig.cache
