@@ -294,11 +294,14 @@ namespace Conditions
             //        arr[i] = digit;
             //        i++;
             //    }
-            //    for(int j = 0; j < arr.Length - 1; j++)
+            //    for (int k = 0;  k < arr.Length; k++)
             //    {
-            //        if(arr[j] == arr[j + 1])
+            //        for (int j = k+1; j < arr.Length; j++)
             //        {
-            //            check = true;
+            //            if (arr[k] == arr[j])
+            //            {
+            //                check = true;
+            //            }
             //        }
             //    }
             //    if (check)
